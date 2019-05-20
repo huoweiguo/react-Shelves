@@ -1,0 +1,40 @@
+{
+    "code": "000000",
+    "message": "获取数据成功",
+    "data": {
+        "list": [
+            {
+                "id": 1,
+                "url": "http://img0.yododo.com.cn/files/cms/20140508112221.jpg",
+                "title": "北海道",
+                "avaue": 10,
+                "aticle": 50,
+                "hotel": 72641 
+            },
+            {
+                "id": 2,
+                "url": "http://img1.yododo.com.cn/files/cms/20140529030616.jpg",
+                "title": "巴西",
+                "avaue": 110,
+                "aticle": 509,
+                "hotel": 7641 
+            },
+            {
+                "id": 3,
+                "url": "http://img2.yododo.com/files/cms/20140224061029.jpg",
+                "title": "厦门",
+                "avaue": 210,
+                "aticle": 50,
+                "hotel": 2641 
+            },
+            {
+                "id": 4,
+                "url": "http://img0.yododo.com/files/cms/20130917125708.jpg",
+                "title": "东莞",
+                "avaue": 160,
+                "aticle": 782,
+                "hotel": 526371 
+            }
+        ]
+    }
+}
